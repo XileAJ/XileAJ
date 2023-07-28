@@ -1,5 +1,5 @@
 ### 😁 Olá! Eu sou o Gileno Oliveira ✌️
-- - - -
+- - -
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O+Melhor+da+vida+é+aprender;+bem+mais+do+que+já+se+sabe...)](https://git.io/typing-svg)
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta e apaixonado por tecnologia e estou sempre em busca de novas oportunidades para aprender e explorar novas tecnologias. Atualmente, estou focado no desenvolvimento front-end e estudando a fundo o mundo do desenvolvimento web. 
@@ -9,7 +9,7 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gileno-de-oliveira-rocha-b36b2a125/)
 [![linkedin](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/XileAJ?tab=repositories/)
 
----
+- - -
 
 ### Tecnologias que fazem parte do meu dia a dia: 🔥🔥🔥
 <div style="display: inline_block">
@@ -23,8 +23,14 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
     <img align="center" alt="html5"src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br>
+ 
+### Alguns dos meus projetos: 👇
 
-### Meus Projetos: 👇
+ - [Página de Tributo ](https://xileaj.github.io/pagina-de-tributo/)
+ - [Formulário de pesquisa](https://xileaj.github.io/exercicio-formulario/)
+ - [Projeto Flexbox ](https://xileaj.github.io/Projeto-Flexbox---B7web/)
+ 
+ 
 
 
 
