@@ -11,9 +11,10 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 
 <style>
   .styled-hr {
+    background-color: #30363d;
     border: none;
     height: 0.25em;
-    background-color: #30363d;
+    
   }
 </style>
 <hr class="styled-hr">
