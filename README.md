@@ -8,17 +8,16 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gileno-de-oliveira-rocha-b36b2a125/)
 [![linkedin](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/XileAJ?tab=repositories/)
-
+<hr class="styled-hr">
 <style>
   .styled-hr {
     background-color: #30363d;
     border: none;
-    height: 0.25em;
-    
+    height: 0.25em;    
   }
 </style>
-<hr class="styled-hr">
-<br>
+
+
 
 ### Tecnologias que fazem parte do meu dia a dia: 🔥🔥🔥
 <div style="display: inline_block">
