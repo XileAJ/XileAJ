@@ -18,6 +18,7 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
   }
 </style>
 <hr class="styled-hr">
+<br>
 
 ### Tecnologias que fazem parte do meu dia a dia: 🔥🔥🔥
 <div style="display: inline_block">
