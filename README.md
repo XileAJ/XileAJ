@@ -1,5 +1,5 @@
-### Olá! Eu sou o Gileno Oliveira ✌️
-- - -
+### 😁 Olá! Eu sou o Gileno Oliveira ✌️
+- - - -
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O+Melhor+da+vida+é+aprender;+bem+mais+do+que+já+se+sabe...)](https://git.io/typing-svg)
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta e apaixonado por tecnologia e estou sempre em busca de novas oportunidades para aprender e explorar novas tecnologias. Atualmente, estou focado no desenvolvimento front-end e estudando a fundo o mundo do desenvolvimento web. 
