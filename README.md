@@ -12,7 +12,8 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 - - - 
 
 
-<h2 style = "font-weight: bold; margin-bottom: 6px">Tecnologias que fazem parte do meu dia a dia: 🔥🔥</h2> 
+<h2 style = "list-style: none; font-weight: bold; margin-bottom: 6px">Tecnologias que fazem parte do meu dia a dia: 🔥🔥</h2> 
+
 <div style="display: inline_block">
     <img align="center" alt="html5"src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,10 +28,9 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 - - -
  
 
-
 <h3 style="font-weight: bold;">Alguns dos meus projetos: 👇</h3>
 
-<ul style="list-style-type: disc; font-size: 18px; line-height: 1.6;">
+<ul style="list-style-type: disc;  font-size: 20px; line-height: 1.6;">
   <li><a href="https://xileaj.github.io/pagina-de-tributo/">Página de Tributo</a></li>
   <li><a href="https://xileaj.github.io/exercicio-formulario/">Formulário de pesquisa</a></li>
   <li><a href="https://xileaj.github.io/Projeto-Flexbox---B7web/">Projeto Flexbox</a></li>
