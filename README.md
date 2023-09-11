@@ -32,6 +32,7 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 
 <ul style="list-style-type: disc;  font-size: 20px; line-height: 1.6;">
   <li><a href="https://docu-chat-sample-9g75.vercel.app/">Projeto Docuchat-Sample</a></li>
+  <li><a href="https://sendovocedf.com.br/">Blog de notícias em Wordpress</a></li>
   <li><a href="https://xileaj.github.io/pagina-de-tributo/">Página de Tributo</a></li>
   <li><a href="https://xileaj.github.io/exercicio-formulario/">Formulário de pesquisa</a></li>
   <li><a href="https://xileaj.github.io/Projeto-Flexbox---B7web/">Projeto Flexbox</a></li>
