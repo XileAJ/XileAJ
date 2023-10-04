@@ -31,6 +31,7 @@ Acredito que a colaboração e o compartilhamento de conhecimentos são essencia
 <h3 style="font-weight: bold;">Alguns dos meus projetos: 👇</h3>
 
 <ul style="list-style-type: disc;  font-size: 20px; line-height: 1.6;">
+  <li><a href="https://xileaj.github.io/Projeto-One-Piece/">Projeto One Piece</a></li>
   <li><a href="https://docu-chat-sample-9g75.vercel.app/">Projeto Docuchat-Sample</a></li>
   <li><a href="https://sendovocedf.com.br/">Blog de notícias em Wordpress</a></li>
   <li><a href="https://xileaj.github.io/pagina-de-tributo/">Página de Tributo</a></li>
